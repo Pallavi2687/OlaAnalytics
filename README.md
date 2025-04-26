@@ -1,4 +1,4 @@
-![Screenshot (207)](https://github.com/user-attachments/assets/329991f3-b52e-4d4c-85fb-94cc6c3e19a2)![Screenshot (208)](https://github.com/user-attachments/assets/d33dc939-e9d3-4346-8315-2e382c46268a)Welcome to **OlaAnalytics**, a Power BI dashboard project that visualizes key insights for Ola's ride data. This interactive dashboard helps stakeholders understand operational performance, user trends, and other important metrics.
+Welcome to **OlaAnalytics**, a Power BI dashboard project that visualizes key insights for Ola's ride data. This interactive dashboard helps stakeholders understand operational performance, user trends, and other important metrics.
 ## 📊 Dashboard Features
 
 This dashboard provides visual insights into:
